@@ -1,4 +1,4 @@
-![Hayley hanna](https://user-images.githubusercontent.com/82784152/145098352-308e7b28-7620-4d5a-b7f9-dd65c4b7e5e1.gif)
+
 ### Hi there 👋, I'm Hayley
 
 Skills: JS / HTML / CSS/ Bootstrap
