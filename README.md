@@ -3,9 +3,7 @@
 
 ### Hi there 👋, I'm Hayley
 
-Skills: JS / HTML / CSS/ Bootstrap
-
-- 🌱 I’m currently learning React 
+Skills: JS / HTML / CSS/ Bootstrap 
 - 📫 How to reach me: Hayleykphanna@gmail.com  
 
 
