@@ -4,7 +4,9 @@
 ### Hi there 👋, I'm Hayley
 
 Skills: JS / HTML / CSS/ Bootstrap 
-Curently learning: React
+
+
+Currently learning: React
 
 - 📫 How to reach me: Hayleykphanna@gmail.com  
 
